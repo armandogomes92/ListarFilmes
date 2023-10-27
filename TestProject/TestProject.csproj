@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebApplication\WebApplication.csproj" />
+    <ProjectReference Include="..\GerenciadorDeFilmes\GerenciadorDeFilmes.csproj" />
   </ItemGroup>
 
 </Project>

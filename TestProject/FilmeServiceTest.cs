@@ -1,14 +1,14 @@
 using Moq;
 using System;
-using WebApplication.Data;
-using WebApplication.Data.Dtos;
-using WebApplication.Model;
-using WebApplication.Services;
-using WebApplication.Interfaces;
+using GerenciadorDeFilmes.Data;
+using GerenciadorDeFilmes.Data.Dtos;
+using GerenciadorDeFilmes.Model;
+using GerenciadorDeFilmes.Services;
+using GerenciadorDeFilmes.Interfaces;
 using Xunit;
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
-using WebApplication.Profiles;
+using GerenciadorDeFilmes.Profiles;
 
 namespace TestProject
 {
